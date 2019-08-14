@@ -1,0 +1,17 @@
+.example-card {
+  width: 23%;
+  margin-bottom: 2%;
+  margin-left: 80px;
+  background-color:#eef1f1;
+ }
+ 
+ .cardList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+ }
+
+ .avtar{
+   border-radius: 0%;
+ }

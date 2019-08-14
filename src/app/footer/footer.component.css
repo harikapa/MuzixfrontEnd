@@ -1,0 +1,21 @@
+.mat-toolbar img{
+    width : 30px;
+    margin-left: 20px;
+    border-radius: 100%;
+    /* float: right; */
+}
+.mat-toolbar{
+    height: 250px;
+    background-color: black;
+}
+.copyRight{
+    color: white;
+}
+.explore a{
+    color: white;
+    text-decoration: none;
+}
+.followUs, h2{
+    color: white;
+}
+
